@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.video {
+  justify-content: center;
+}
+
+.grid1 {
+  margin-top: -350px;
+  margin-left: 10px;
+  color: #fff;
+}
+.me {
+  position: relative;
+}
+.grid2 {
+  margin-top: -350px;
+  margin-left: 390px;
+}
+.icon,
+.icon2,
+.icon3 {
+  color: #4b4b4b;
+  margin-top: -10px;
+}
+.icon2 {
+  margin-left: -20px;
+}
+
+.icon:hover,
+.icon2:hover,
+.icon3:hover {
+  color: #fff;
+  transform: "scale(1)";
+}
+.grid3 {
+  padding: 16px;
+  margin-top: -200px;
+  margin-left: 200px;
+}
+.slider {
+  margin-left: 20px;
+  margin-top: 65px;
+}
+.icon3 {
+  margin-top: -15px;
+  margin-left: -30px;
+}
+.bottomleft {
+  position: absolute;
+  margin-bottom: 165px;
+  margin-left: 520px;
+}
+
+/* .blck{
+     color: rgb(255, 0, 0);
+    position: relative;
+    margin-top: -100px; 
+    position:relative;
+    
+    z-index:1;
+
+}
+ .con{
+  position:relative;
+  color: white;
+  margin-left: 10%;
+  width: 100%;
+
+}
+.text{
+  position:absolute;
+  top:1%;
+  left:1%;
+  z-index:1;
+}
+.button{
+ position:absolute;
+  top:1%;
+  left:500px;
+  z-index:1;
+
+}
+.buttom{
+
+}
+.ico{
+  position:absolute;
+  top:40%;
+  left:250px;
+  z-index:1;
+  
+}
+.Icon:hover{
+  color: white;
+  transform: scale(1);
+}
+
+.Bottomicon:hover{
+  color: rgb(255, 255, 255);
+}  */
